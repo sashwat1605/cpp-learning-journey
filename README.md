@@ -6,8 +6,8 @@ I am a BTech Computer Science student learning C++ from the basics.
 This repository documents my daily practice, programming exercises, and progress as I build my problem-solving skills.
 
 ## Current Progress
-- Day 1: Variables, input/output, arithmetic and comparison operators
-- Day 2: Arithmetic expressions and practical programming challenges
+- Day 1: Completed — variables, input/output, arithmetic operators, comparison operators, and a marks calculator using `double`.
+- Day 2: Upcoming — arithmetic expressions and a shopping bill calculator.
 
 ## Technologies
 - C++
